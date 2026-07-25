@@ -12,6 +12,7 @@ This config requires:
 - **xrandr** for xorg resolution
 - **setxkbmap** for keyboard layout
 - **dbus-run-session** cmd for brave working
+- **alacritty** as prefered terminal emul.
 
 ## Set up
 
